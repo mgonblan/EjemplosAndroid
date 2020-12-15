@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="atm">at</string>
+    <string name="Enter">Enter</string>
+    <string name="name">Name</string>
+    <string name="middlename">middlename</string>
+</resources>
